@@ -1,4 +1,4 @@
-from calculadora import Calculadora
+from src.calculadora import Calculadora
 
 def main():
     calc = Calculadora()
